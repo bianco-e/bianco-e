@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**bianco-e/bianco-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Bianco, programador Javascript.
 
-Here are some ideas to get you started:
+Actualmente estoy trabajando en proyectos personales como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Juego de cartas: http://animalcardom.vercel.app
+Red social de ayuda: http://helpsocialapp.vercel.app
+
+Contacto:
+👨‍💼: https://www.linkedin.com/in/biancoemiliozzi
+📧: bianco.emiliozzi@gmail.com
+
+### Hi 👋
+
+I'm Bianco, Javascript Developer.
+
+I'm currently working on personal projects like:
+
+Card game: http://animalcardom.vercel.app
+App to help other people: http://helpsocialapp.vercel.app
+
+Contact:
+👨‍💼: https://www.linkedin.com/in/biancoemiliozzi
+📧: bianco.emiliozzi@gmail.com
