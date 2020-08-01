@@ -1,15 +1,10 @@
-### Hola 👋
-
-Soy Bianco, programador Javascript.
+![bianco-e](https://user-images.githubusercontent.com/56521196/89089652-b84de080-d374-11ea-8b26-690f78992077.png)
 
 Actualmente estoy trabajando en proyectos personales como:
 
 Juego de cartas: http://animalcardom.vercel.app --
 Red social de ayuda: http://helpsocialapp.vercel.app
 
-### Hi 👋
-
-I'm Bianco, Javascript Developer.
 
 I'm currently working on personal projects like:
 
