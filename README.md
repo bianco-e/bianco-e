@@ -1,4 +1,4 @@
-![bianco-e](https://user-images.githubusercontent.com/56521196/89089652-b84de080-d374-11ea-8b26-690f78992077.png)
+![biancoe](https://user-images.githubusercontent.com/56521196/89742178-07c79700-da6e-11ea-9da2-25576616009f.png)
 
 - Algunos proyectos personales:
 
